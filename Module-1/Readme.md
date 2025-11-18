@@ -1,10 +1,16 @@
-# CAS-Applied-Data-Science
+# CAS Applied Data Science - Module 1: Data Acqusition and Management
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KGzB/CAS-Applied-Data-Science)
+This repository contains my work for Module1 of the CAS Applied Data Science Program.
 
-Module 1 material. These are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
+# Contents
+. Exercises and practice notebooks
+. Project files
+. Data exploration tasks
 
-- D1 https://drive.google.com/file/d/12cWTQG5_vcoaz-puhBgH9GrfKUADmLdo/view?usp=sharing
-- D2 https://drive.google.com/file/d/12hehfcdVOR0lpemy5Y-84EspCiOjr8e9/view?usp=sharing
-- D3 https://drive.google.com/file/d/12nMYd6lIWQBQV1fOfRRbcf1S-oyCCsec/view?usp=sharing
+# Goals
+Strengthen Python and data analysis fundamentals
 
+# Tools Used
+. Python
+. Jupyter Notebook
+. Pandas, NumPy, Matplotlib
