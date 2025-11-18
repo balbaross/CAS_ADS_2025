@@ -3,7 +3,7 @@
 This repository contains my work for Module1 of the CAS Applied Data Science Program.
 
 ## Contents
-. Exercises and practice notebooks
+. **Exercises and practice notebooks**
 
 . Project files
 
