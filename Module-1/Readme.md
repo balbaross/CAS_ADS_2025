@@ -4,7 +4,9 @@ This repository contains my work for Module1 of the CAS Applied Data Science Pro
 
 ## Contents
 . Exercises and practice notebooks
+
 . Project files
+
 . Data exploration tasks
 
 ## Goals
@@ -12,6 +14,9 @@ This repository contains my work for Module1 of the CAS Applied Data Science Pro
 
 ## Tools Used
 . Python fundamentals
+
 . Jupyter Notebooks
+
 . Pandas, NumPy, Matplotlib
+
 . Git & GitHub basics
