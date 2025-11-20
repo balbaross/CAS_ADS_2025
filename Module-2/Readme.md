@@ -10,3 +10,18 @@ This module covers the fundamental steps of statistical data analysis. It includ
 * Parameter estimation
 
 * hypothesis testing
+
+## Goals
+* Apply statistical methods
+
+* Interpret regression results
+
+* Validate statistical models
+
+## Tools Used
+* Jupyter notebooks
+
+* Example datasets
+
+* Statistical inference exercises
+
