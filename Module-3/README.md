@@ -1,9 +1,6 @@
 # CAS Applied Data Science - Module 3 - Data Analysis and Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
-
 Learning outcomes:
-
 
 * Overview of machine learning pipelines and their implementation with scikit-learn
 * Regression and Classification: linear models and logistic regression
@@ -13,4 +10,3 @@ Learning outcomes:
 * Artificial Neural networks as general fitters, fully connected nets used to classify the fashion-MNIST dataset
 * Scikit-learn and clustering maps, Q&A
 
-Our wepgabe is [dsl.unibe.ch](https://www.dsl.unibe.ch/)
