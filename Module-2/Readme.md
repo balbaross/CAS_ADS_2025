@@ -9,10 +9,10 @@ This module covers the fundamental steps of statistical data analysis. It includ
 
 * Parameter estimation
 
-* hypothesis testing
+* Hypothesis testing
 
 ## Goals
-* Apply statistical methods
+* Apply fundemantel statistical methods
 
 * Interpret regression results
 
