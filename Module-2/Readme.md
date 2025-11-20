@@ -2,8 +2,11 @@
 # Module 2 — Statistical Inference for Data Science
 
 This module covers the fundamental steps of statistical data analysis. It includes single-feature descriptive statistics, parameter estimation, regression analysis, and hypothesis testing.
+## Contents
+* Deskriptive statistik
 
-Deskriptive statistik
-Probability density functions
-Parameter estimation
-hypothesis testing
+* Probability density functions
+
+* Parameter estimation
+
+* hypothesis testing
