@@ -1,4 +1,4 @@
-# CAS in Applied Data Scinece - module 4 - Ethics and Best Practices
+# CAS in Applied Data Scinece - Module 4 - Ethics and Best Practices
 
 code examples and tasks for CAS ADS module 4
 
