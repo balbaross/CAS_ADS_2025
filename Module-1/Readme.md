@@ -1,4 +1,4 @@
-# CAS Applied Data Science - Module 1: Data Acqusition and Management
+## CAS Applied Data Science - Module 1: Data Acqusition and Management
 
 This repository contains my work for Module1 of the CAS Applied Data Science Program.
 
