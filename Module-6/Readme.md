@@ -1,1 +1,1 @@
-# CAS in Applied Data Scinece - Module 5 - Consolidations
+# CAS in Applied Data Scinece - Module6 - Deep Learning
