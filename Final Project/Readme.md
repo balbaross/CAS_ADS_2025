@@ -1,1 +1,1 @@
-# CAS in Applied Data Scinece - Final Projects
+# CAS in Applied Data Scinece - Final Project
