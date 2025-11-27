@@ -1,4 +1,4 @@
-# CAS Applied Data Science - Module 3 - Data Analysis and Machine Learning
+## CAS Applied Data Science - Module 3 - Data Analysis and Machine Learning
 
 Learning outcomes:
 
